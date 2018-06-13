@@ -1,0 +1,36 @@
+﻿# Game German (Germany) translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2018-06-13 16:46\n"
+"PO-Revision-Date: 2018-06-13 16:46\n"
+"Language-Team: \n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	484F31134407A6E6BE7C4E9DFAB812B1
+#. SourceLocation:	/Game/TEMPORARY/LanguageCube.Default__LanguageCube_C.setTextText
+#: /Game/TEMPORARY/LanguageCube.Default__LanguageCube_C.setTextText
+msgctxt ",484F31134407A6E6BE7C4E9DFAB812B1"
+msgid "Set Language to:"
+msgstr "Setze Sprache zu:"
+
+#. Key:	WelcomeMessage1
+#. SourceLocation:	/Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText
+#: /Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText
+msgctxt "Game,WelcomeMessage1"
+msgid "Welcome to my Game, Friend."
+msgstr "Hey, willkommen zu meinem Spiel!"
+
+#. Key:	welcomeMessage2
+#. SourceLocation:	/Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText_0
+#: /Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText_0
+msgctxt "Game,welcomeMessage2"
+msgid "I hope you'll enjoy your time."
+msgstr "Ich wünsche die viel Spaß!"
+
