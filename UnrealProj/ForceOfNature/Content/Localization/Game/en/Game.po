@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-06-14 12:44\n"
-"PO-Revision-Date: 2018-06-14 12:44\n"
+"POT-Creation-Date: 2018-06-14 13:52\n"
+"PO-Revision-Date: 2018-06-14 13:52\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -41,13 +41,6 @@ msgctxt ",4580E7064E5C44FD3CC2F99D293461F9"
 msgid "MenuAchievementsButton"
 msgstr "Achievements"
 
-#. Key:	484F31134407A6E6BE7C4E9DFAB812B1
-#. SourceLocation:	/Game/TEMPORARY/LanguageCube.Default__LanguageCube_C.setTextText
-#: /Game/TEMPORARY/LanguageCube.Default__LanguageCube_C.setTextText
-msgctxt ",484F31134407A6E6BE7C4E9DFAB812B1"
-msgid "setTextText"
-msgstr "Set Language to:"
-
 #. Key:	527221EB40F481D8B3CBF69616355A77
 #. SourceLocation:	/Game/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.Header.Text
 #: /Game/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.Header.Text
@@ -70,8 +63,8 @@ msgid "MenuPlayButton"
 msgstr "Play"
 
 #. Key:	6804722945750F6ACDA972A943C61E82
-#. SourceLocation:	/Game/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.TextBlock_7.Text
-#: /Game/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.TextBlock_7.Text
+#. SourceLocation:	/Game/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
+#: /Game/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
 msgctxt ",6804722945750F6ACDA972A943C61E82"
 msgid "MenuBackButton"
 msgstr "Back"
@@ -110,18 +103,4 @@ msgstr "Language"
 msgctxt ",CD8AB7054C6C8AAE5876FF9EE69886B0"
 msgid "MenuQuitButton"
 msgstr "Quit"
-
-#. Key:	WelcomeMessage1
-#. SourceLocation:	/Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText
-#: /Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText
-msgctxt "Game,WelcomeMessage1"
-msgid "WelcomeCube1"
-msgstr "Welcome to my Game, Friend."
-
-#. Key:	welcomeMessage2
-#. SourceLocation:	/Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText_0
-#: /Game/TEMPORARY/WelcomeCube.Default__WelcomeCube_C.WelcomeText_0
-msgctxt "Game,welcomeMessage2"
-msgid "WelcomeText1"
-msgstr "I hope you'll enjoy your time."
 
