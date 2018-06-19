@@ -1,0 +1,4 @@
+Name,questGiverImgName,questText,correctAnswerNr,possibleAnswers
+1,person,"Someone spilled oil all over the place, and I really feel like smoking.",2,fissure;flame;tornado
+2,person,"I invented a tornado machine, what could go wrong!",3,rocks;fissure;tornado
+3,person,godzilla's heavy steps are shaking the earth,2,tornado;fissure;flame
