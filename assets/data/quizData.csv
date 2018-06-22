@@ -1,4 +1,0 @@
-Name,questGiverImgName,correctAnswerNr,questText_en,questText_de-DE,answer1Text_en,answer1Text_de-DE,answer2Text_en,answer2Text_de-DE,answer3Text_en,answer3Text_de-DE
-1,person,2,someone spilled oil and I want to have a smoke...,"jemand hat Öl verschüttet, und ich möchte eine Rauchen...",Fire Hazard,Feuer Gefahr,Flood Danger,Hochwasser Gefahr,Earthquake indicator,Anzeichen für Erdbeben
-2,person,3,something earthquake,etwas Erdbeben,Dumb choice,dumme wahl,Earthquake,Erdbeben,dumb choice,dumme wahl
-3,person,2,something flood,etwas hochwasser,Dumb choice,dumme wahl,Dumb choice,dumme wahl,Flood,Hochwasser
