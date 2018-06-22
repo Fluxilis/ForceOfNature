@@ -1,0 +1,106 @@
+﻿# Game English translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2018-06-22 14:20\n"
+"PO-Revision-Date: 2018-06-22 14:20\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	2EBE54804B8969843A5898A1692A87E5
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_0.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_0.Text
+msgctxt ",2EBE54804B8969843A5898A1692A87E5"
+msgid "MainMenuLabel"
+msgstr "Main Menu"
+
+#. Key:	36D680824AA26EBD3B10FDAF1FD14BEE
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_5.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_5.Text
+msgctxt ",36D680824AA26EBD3B10FDAF1FD14BEE"
+msgid "MenuCreditsButton"
+msgstr "Credits"
+
+#. Key:	4580E7064E5C44FD3CC2F99D293461F9
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
+msgctxt ",4580E7064E5C44FD3CC2F99D293461F9"
+msgid "MenuAchievementsButton"
+msgstr "Achievements"
+
+#. Key:	527221EB40F481D8B3CBF69616355A77
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.Header.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.Header.Text
+msgctxt ",527221EB40F481D8B3CBF69616355A77"
+msgid "OptionsMenuLabel"
+msgstr "Options"
+
+#. Key:	5CFEB00E4ACB89199BC507ACA2A30864
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
+msgctxt ",5CFEB00E4ACB89199BC507ACA2A30864"
+msgid "MenuLanguageLabel"
+msgstr "Language"
+
+#. Key:	5D6C61A24985DE6F9659B4B88B9D5E8E
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_2.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_2.Text
+msgctxt ",5D6C61A24985DE6F9659B4B88B9D5E8E"
+msgid "MenuPlayButton"
+msgstr "Play"
+
+#. Key:	6804722945750F6ACDA972A943C61E82
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",6804722945750F6ACDA972A943C61E82"
+msgid "MenuBackButton"
+msgstr "Back"
+
+#. Key:	7A6E2B5E46548300568DECAD33B59D30
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",7A6E2B5E46548300568DECAD33B59D30"
+msgid "MenuSoundButton"
+msgstr "Sound"
+
+#. Key:	90364E234AF1E60FDA2D10AE81B476DA
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_0.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_0.Text
+msgctxt ",90364E234AF1E60FDA2D10AE81B476DA"
+msgid "LoadingScreenLoading..."
+msgstr "Loading..."
+
+#. Key:	9575C97C4F63F79903F5F89940AE9D12
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_1.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",9575C97C4F63F79903F5F89940AE9D12"
+msgid "MenuHelpButton"
+msgstr "Help"
+
+#. Key:	A0C6D789483356DB7CB717BCA8FB41DF
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_4.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_4.Text
+msgctxt ",A0C6D789483356DB7CB717BCA8FB41DF"
+msgid "MenuOptionsButton"
+msgstr "Options"
+
+#. Key:	B72AE56D4FC84A9FECFB5092D48EBE75
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_0.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",B72AE56D4FC84A9FECFB5092D48EBE75"
+msgid "MenuLanguageButton"
+msgstr "Language"
+
+#. Key:	CD8AB7054C6C8AAE5876FF9EE69886B0
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_8.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_8.Text
+msgctxt ",CD8AB7054C6C8AAE5876FF9EE69886B0"
+msgid "MenuQuitButton"
+msgstr "Quit Game"
+
