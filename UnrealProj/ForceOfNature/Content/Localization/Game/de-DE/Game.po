@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-06-26 15:58\n"
-"PO-Revision-Date: 2018-06-26 15:58\n"
+"POT-Creation-Date: 2018-06-28 10:45\n"
+"PO-Revision-Date: 2018-06-28 10:45\n"
 "Language-Team: \n"
 "Language: de-DE\n"
 "MIME-Version: 1.0\n"
@@ -45,8 +45,8 @@ msgstr "Optionen"
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/worldMap/disasterQuizPopup.disasterQuizPopup_C:WidgetTree.TextBlock_0.Text
 #: /Game/Gameplay/Blueprints/gui/worldMap/disasterQuizPopup.disasterQuizPopup_C:WidgetTree.TextBlock_0.Text
 msgctxt ",54021F654239563FC9FBDA9C5AFF7B4F"
-msgid "Enter Level"
-msgstr "Level Betreten"
+msgid "Let's go"
+msgstr "Los geht's"
 
 #. Key:	5CFEB00E4ACB89199BC507ACA2A30864
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
