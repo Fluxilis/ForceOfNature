@@ -1,3 +1,9 @@
+# Binary Files
+# DO NOT IGNORE FOR ARTISTS!!
+!UnrealProj/ForceOfNature/Binaries/*
+
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -17,7 +23,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+#*.dll
 
 # Fortran module files
 *.mod
@@ -26,10 +32,10 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
 *.ipa
@@ -48,9 +54,6 @@
 UnrealProj/ForceOfNature/SourceArt/**/*.png
 UnrealProj/ForceOfNature/SourceArt/**/*.tga
 
-# Binary Files
-UnrealProj/ForceOfNature/Binaries/*
-UnrealProj/ForceOfNature/Plugins/*/Binaries/*
 
 # Builds
 UnrealProj/ForceOfNature/Build/*
