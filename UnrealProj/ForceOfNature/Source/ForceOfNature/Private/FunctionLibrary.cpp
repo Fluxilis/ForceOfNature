@@ -22,4 +22,7 @@ UTexture2D * UFunctionLibrary::GetTextureByPath(const FString& Path)
 }
 
 
-
+FVector2D UFunctionLibrary::RotateVector2D(FVector2D vector, float degrees)
+{
+	return vector.GetRotated(degrees);
+}

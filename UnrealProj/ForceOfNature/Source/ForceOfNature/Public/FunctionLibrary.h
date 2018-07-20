@@ -20,6 +20,10 @@ public:
 		static UTexture2D * GetTextureByName(const FString& Path, const FString& TextureName);
 	UFUNCTION(BlueprintCallable, Category = "Texture By Name")
 		static UTexture2D * GetTextureByPath(const FString& Path);
+
+	UFUNCTION(BlueprintCallable, Category = "Maths")
+		static FVector2D RotateVector2D(FVector2D vector, float degrees);
+
 	
 	
 };
