@@ -4,14 +4,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-06-28 10:45\n"
-"PO-Revision-Date: 2018-06-28 10:45\n"
+"POT-Creation-Date: 2018-07-22 22:39\n"
+"PO-Revision-Date: 2018-07-22 22:39\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	05E98FC64B6E637C269885903CECCB5E
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.ContinueText.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.ContinueText.Text
+msgctxt ",05E98FC64B6E637C269885903CECCB5E"
+msgid "Continue"
+msgstr "Continue"
+
+#. Key:	0D38135C40978DAB5E22019E91E9E418
+#. SourceLocation:	/Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:PlayerKilled [Script Bytecode]
+#: /Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:PlayerKilled [Script Bytecode]
+msgctxt ",0D38135C40978DAB5E22019E91E9E418"
+msgid "Try again!"
+msgstr "Try again!"
+
+#. Key:	11A38170489D9F0EB6537CB92CD845E3
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
+msgctxt ",11A38170489D9F0EB6537CB92CD845E3"
+msgid "Culture set to En"
+msgstr "Culture set to En"
+
+#. Key:	1DD9D6BA40BEFD208D85BBAFFB5E1C6B
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.WinMessageBig.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.WinMessageBig.Text
+msgctxt ",1DD9D6BA40BEFD208D85BBAFFB5E1C6B"
+msgid "You did it!"
+msgstr "You did it!"
+
+#. Key:	209E14AA42FBE3107E7EE4AD3F6E295E
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.QuitText.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.QuitText.Text
+msgctxt ",209E14AA42FBE3107E7EE4AD3F6E295E"
+msgid "Quit"
+msgstr "Quit"
 
 #. Key:	2EBE54804B8969843A5898A1692A87E5
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_0.Text
@@ -20,12 +55,26 @@ msgctxt ",2EBE54804B8969843A5898A1692A87E5"
 msgid "MainMenuLabel"
 msgstr "Main Menu"
 
+#. Key:	30C2A0E44673BECF7AE4BCAFB8F03E4C
+#. SourceLocation:	/Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:PlayerKilled [Script Bytecode]
+#: /Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:PlayerKilled [Script Bytecode]
+msgctxt ",30C2A0E44673BECF7AE4BCAFB8F03E4C"
+msgid "You died!"
+msgstr "You died!"
+
 #. Key:	36D680824AA26EBD3B10FDAF1FD14BEE
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_5.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_5.Text
 msgctxt ",36D680824AA26EBD3B10FDAF1FD14BEE"
 msgid "MenuCreditsButton"
 msgstr "Credits"
+
+#. Key:	380F45974DFCEAFA155890A19EA48363
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/EndScreenType.EndScreenType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Gameplay/Blueprints/gui/EndScreenType.EndScreenType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",380F45974DFCEAFA155890A19EA48363"
+msgid "NoScreen"
+msgstr "NoScreen"
 
 #. Key:	4580E7064E5C44FD3CC2F99D293461F9
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
@@ -48,6 +97,20 @@ msgctxt ",54021F654239563FC9FBDA9C5AFF7B4F"
 msgid "EnterLevelButtonText"
 msgstr "Let's go"
 
+#. Key:	5724D86A46227F4DC6D4219D21B7EFE4
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/EndScreenType.EndScreenType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Gameplay/Blueprints/gui/EndScreenType.EndScreenType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",5724D86A46227F4DC6D4219D21B7EFE4"
+msgid "DeathScreen"
+msgstr "DeathScreen"
+
+#. Key:	5C79611E4ED21A4B98D94086FEB4F32C
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
+msgctxt ",5C79611E4ED21A4B98D94086FEB4F32C"
+msgid "Culture set to De"
+msgstr "Culture set to De"
+
 #. Key:	5CFEB00E4ACB89199BC507ACA2A30864
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
@@ -62,6 +125,13 @@ msgctxt ",5D6C61A24985DE6F9659B4B88B9D5E8E"
 msgid "MenuPlayButton"
 msgstr "Play"
 
+#. Key:	61CD581B4FD1655F8790288991DAD280
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.RestartText.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.RestartText.Text
+msgctxt ",61CD581B4FD1655F8790288991DAD280"
+msgid "Restart"
+msgstr "Restart"
+
 #. Key:	6804722945750F6ACDA972A943C61E82
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
@@ -69,12 +139,33 @@ msgctxt ",6804722945750F6ACDA972A943C61E82"
 msgid "MenuBackButton"
 msgstr "Back"
 
+#. Key:	6B7C494243BD0037E727BDB2BCAC46E0
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_5.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_5.Text
+msgctxt ",6B7C494243BD0037E727BDB2BCAC46E0"
+msgid "Credits"
+msgstr "Credits"
+
+#. Key:	7066FA774FADE6FDB38ACCA1DA939673
+#. SourceLocation:	/Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:VictimKilled [Script Bytecode]
+#: /Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:VictimKilled [Script Bytecode]
+msgctxt ",7066FA774FADE6FDB38ACCA1DA939673"
+msgid "Try again!"
+msgstr "Try again!"
+
 #. Key:	7A6E2B5E46548300568DECAD33B59D30
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",7A6E2B5E46548300568DECAD33B59D30"
 msgid "MenuSoundButton"
 msgstr "Sound"
+
+#. Key:	890A63D342300D1C7A044AB9D8146683
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.LocationText.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.LocationText.Text
+msgctxt ",890A63D342300D1C7A044AB9D8146683"
+msgid "Nina | Cologne"
+msgstr "Nina | Cologne"
 
 #. Key:	90364E234AF1E60FDA2D10AE81B476DA
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_0.Text
@@ -90,12 +181,33 @@ msgctxt ",9575C97C4F63F79903F5F89940AE9D12"
 msgid "MenuHelpButton"
 msgstr "Help"
 
+#. Key:	9A2439304ACF46FB2D57F1A316753597
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_8.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_8.Text
+msgctxt ",9A2439304ACF46FB2D57F1A316753597"
+msgid "Quit"
+msgstr "Quit"
+
 #. Key:	A0C6D789483356DB7CB717BCA8FB41DF
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_4.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_4.Text
 msgctxt ",A0C6D789483356DB7CB717BCA8FB41DF"
 msgid "MenuOptionsButton"
 msgstr "Options"
+
+#. Key:	A222A727406E4A31BC8D239EA7C58124
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.WinMessageSmall.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.WinMessageSmall.Text
+msgctxt ",A222A727406E4A31BC8D239EA7C58124"
+msgid "You've saved a life!"
+msgstr "You've saved a life!"
+
+#. Key:	A277954E43F97DD6032E19B7E81E3631
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.MainMenuText.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.MainMenuText.Text
+msgctxt ",A277954E43F97DD6032E19B7E81E3631"
+msgid "Main Menu"
+msgstr "Main Menu"
 
 #. Key:	B72AE56D4FC84A9FECFB5092D48EBE75
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/OptionsMenu.OptionsMenu_C:WidgetTree.TextBlock_0.Text
@@ -104,10 +216,59 @@ msgctxt ",B72AE56D4FC84A9FECFB5092D48EBE75"
 msgid "MenuLanguageButton"
 msgstr "Language"
 
+#. Key:	C0974DE54E78330235BD6191E59BB00A
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
+msgctxt ",C0974DE54E78330235BD6191E59BB00A"
+msgid "Cultutre failed to Set!"
+msgstr "Cultutre failed to Set!"
+
+#. Key:	C8B970F84E1ECA0DE97505BEC0AB0ADB
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_0.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_0.Text
+msgctxt ",C8B970F84E1ECA0DE97505BEC0AB0ADB"
+msgid "Main Menu"
+msgstr "Main Menu"
+
 #. Key:	CD8AB7054C6C8AAE5876FF9EE69886B0
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_8.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_8.Text
 msgctxt ",CD8AB7054C6C8AAE5876FF9EE69886B0"
 msgid "MenuQuitButton"
 msgstr "Quit Game"
+
+#. Key:	D2D0D4E84F44FA9EA18A939AC9F3D08A
+#. SourceLocation:	/Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:VictimKilled [Script Bytecode]
+#: /Game/Gameplay/Blueprints/disasterLevels/core/levelGM.levelGM_C:VictimKilled [Script Bytecode]
+msgctxt ",D2D0D4E84F44FA9EA18A939AC9F3D08A"
+msgid "Civilian died!"
+msgstr "Civilian died!"
+
+#. Key:	D51AC68F442BE81832DE4E96A6E74046
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/EndScreenType.EndScreenType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Gameplay/Blueprints/gui/EndScreenType.EndScreenType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",D51AC68F442BE81832DE4E96A6E74046"
+msgid "WinScreen"
+msgstr "WinScreen"
+
+#. Key:	DED43E6E4D98260D79292C9A0350EA38
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_2.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_2.Text
+msgctxt ",DED43E6E4D98260D79292C9A0350EA38"
+msgid "New Game"
+msgstr "New Game"
+
+#. Key:	E50A610B477DDD6DAFDDF2BE61E85493
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.TextBlock_16.Text
+#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.TextBlock_16.Text
+msgctxt ",E50A610B477DDD6DAFDDF2BE61E85493"
+msgid "Water Level\r\nin meters"
+msgstr "Water Level\r\nin meters"
+
+#. Key:	ECA690B74C93C0AE9347299E4D2BF5F5
+#. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.Credits.Text
+#: /Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.Credits.Text
+msgctxt ",ECA690B74C93C0AE9347299E4D2BF5F5"
+msgid "Credits"
+msgstr "Credits"
 
