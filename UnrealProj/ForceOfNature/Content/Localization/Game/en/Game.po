@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-07-22 22:39\n"
-"PO-Revision-Date: 2018-07-22 22:39\n"
+"POT-Creation-Date: 2018-07-24 13:54\n"
+"PO-Revision-Date: 2018-07-24 13:54\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -26,13 +26,6 @@ msgstr "Continue"
 msgctxt ",0D38135C40978DAB5E22019E91E9E418"
 msgid "Try again!"
 msgstr "Try again!"
-
-#. Key:	11A38170489D9F0EB6537CB92CD845E3
-#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
-#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
-msgctxt ",11A38170489D9F0EB6537CB92CD845E3"
-msgid "Culture set to En"
-msgstr "Culture set to En"
 
 #. Key:	1DD9D6BA40BEFD208D85BBAFFB5E1C6B
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.WinMessageBig.Text
@@ -104,13 +97,6 @@ msgctxt ",5724D86A46227F4DC6D4219D21B7EFE4"
 msgid "DeathScreen"
 msgstr "DeathScreen"
 
-#. Key:	5C79611E4ED21A4B98D94086FEB4F32C
-#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
-#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
-msgctxt ",5C79611E4ED21A4B98D94086FEB4F32C"
-msgid "Culture set to De"
-msgstr "Culture set to De"
-
 #. Key:	5CFEB00E4ACB89199BC507ACA2A30864
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
 #: /Game/Gameplay/Blueprints/gui/Menus/LanguageMenu.LanguageMenu_C:WidgetTree.Header.Text
@@ -130,7 +116,7 @@ msgstr "Play"
 #: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.RestartText.Text
 msgctxt ",61CD581B4FD1655F8790288991DAD280"
 msgid "Restart"
-msgstr "Restart"
+msgstr "Retry"
 
 #. Key:	6804722945750F6ACDA972A943C61E82
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/DebugLevelSelectMenu.DebugLevelSelectMenu_C:WidgetTree.TextBlock_7.Text
@@ -215,13 +201,6 @@ msgstr "Main Menu"
 msgctxt ",B72AE56D4FC84A9FECFB5092D48EBE75"
 msgid "MenuLanguageButton"
 msgstr "Language"
-
-#. Key:	C0974DE54E78330235BD6191E59BB00A
-#. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
-#: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:ExecuteUbergraph_HUDWidgetBlueprint [Script Bytecode]
-msgctxt ",C0974DE54E78330235BD6191E59BB00A"
-msgid "Cultutre failed to Set!"
-msgstr "Cultutre failed to Set!"
 
 #. Key:	C8B970F84E1ECA0DE97505BEC0AB0ADB
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.TextBlock_0.Text
