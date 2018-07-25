@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2018-07-24 13:54\n"
-"PO-Revision-Date: 2018-07-24 13:54\n"
+"POT-Creation-Date: 2018-07-25 13:17\n"
+"PO-Revision-Date: 2018-07-25 13:17\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -241,8 +241,8 @@ msgstr "New Game"
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.TextBlock_16.Text
 #: /Game/Gameplay/Blueprints/gui/HUDWidgetBlueprint.HUDWidgetBlueprint_C:WidgetTree.TextBlock_16.Text
 msgctxt ",E50A610B477DDD6DAFDDF2BE61E85493"
-msgid "Water Level\r\nin meters"
-msgstr "Water Level\r\nin meters"
+msgid "Water Level in meters"
+msgstr "Water Level in meters"
 
 #. Key:	ECA690B74C93C0AE9347299E4D2BF5F5
 #. SourceLocation:	/Game/Gameplay/Blueprints/gui/Menus/MainMenuWidgetNew.MainMenuWidgetNew_C:WidgetTree.Credits.Text
